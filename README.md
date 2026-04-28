@@ -35,4 +35,8 @@ Kiro CLI를 사용하여 다음을 수행할 수 있습니다.
 https://kiro.dev/docs/cli/ 
 
 
+## Kiro CLI 설치하기
+Workshop 실행 환경에서 아래 페이지 내용을 참고해서 Kiro CLI를 설치하세요.
+https://github.com/noenemy/kiro-cli/blob/main/01.kiro-cli-begin/Kiro_Install.md
+
 
