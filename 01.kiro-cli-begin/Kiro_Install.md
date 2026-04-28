@@ -21,3 +21,10 @@ unzip kirocli.zip
 ```
 ./kirocli/install.sh
 ```
+
+## Kiro CLI 실습하기
+이제 Kiro CLI를 이용해서 워크샵을 진행할 준비가 되었습니다.
+아래 페이지로 이동하세요.
+
+https://github.com/noenemy/kiro-cli/blob/main/01.kiro-cli-begin/lab1.Begin_Kiro_CLI.md
+
